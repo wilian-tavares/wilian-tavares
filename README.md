@@ -5,7 +5,6 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/wilmasters)
 
 ![Tavares GitHub stats](https://github-readme-stats.vercel.app/api?username=wilian-tavares&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilian-tavares&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu Uso
